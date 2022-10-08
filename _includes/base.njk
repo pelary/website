@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.name }}
+      {% if title %} &#8212; {{ title }}
+      {% endif %}
+    </title>
+    <link href="/css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    {{ content | safe }}
+    <nav>
+      <ul>
+        {%- for page in collections.all %}
+           <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+        {%- endfor %}
+      </ul>
+      <p>
+        <a href="/">index</a>
+      </p>
+    </nav>
+  </body>
+</html>
