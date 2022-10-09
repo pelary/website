@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Overpass+Mono:wght@300;400;600;700&family=Overpass:ital,wght@0,300;0,600;1,300;1,600&family=Oxygen+Mono&display=swap');
+
 html {
   max-width  : 70ch;
   padding    : 1.5em 1em;
@@ -53,4 +55,92 @@ nav ul li:last-child::after {
 
 footer {
   font-size: 75%;
+}
+
+/* ---- */
+
+
+body {
+	font-size: 16px;
+	line-height: 24px;
+	font-family: 'Cousine', sans-serif;
+	padding: 1rem;
+}
+
+code {
+	font-family: Cousine;
+	/* background: #faf8f5; */
+	background: #faf8f5;
+	border-radius: 1.5px;
+	color: #9a7435;
+	display: inline-block;
+	line-height: 18px;
+	padding: 1px 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 20px;
+	line-height: 24px;
+	padding-top: 2.5rem;
+	font-weight: normal;
+	/* font-family: 'Gentium Basic', serif; */
+}
+
+h1 {
+	font-size: 24px;
+}
+
+header h1 {
+	padding-top: 1rem;
+}
+
+a,
+a:visited {
+	color: #063289;
+}
+
+a.header-anchor {
+	color: gray;
+	text-decoration: none;
+}
+
+nav.site-nav li {
+	display: inline;
+	padding-right: 10px;
+}
+
+nav.site-nav a {
+	text-decoration: none;
+}
+
+nav.site-nav a:hover {
+	text-decoration: underline;
+}
+
+.cite {
+	text-align: right;
+	font-size: 75%;
+}
+
+.cite a {
+	color: #faf8f5;
+}
+
+blockquote {
+	background-color: #faf8f5;
+	padding: 1rem;
+	margin: 0;
+}
+
+blockquote code {
+	padding: 0;
+}
+
+ul li {
+	margin-bottom: 0.3rem;
 }
