@@ -1,8 +1,12 @@
 html {
-  max-width: 70ch;
-  padding: 3em 1em;
-  margin: auto;
+  max-width  : 70ch;
+  padding    : 1.5em 1em;
+  margin     : auto;
   line-height: 1.75;
+  font-size  : 1.25em;
+}
+
+h2 {
   font-size: 1.25em;
 }
 
@@ -12,29 +16,41 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 3em 0 1em;
+  margin: 1.5em 0 1em;
+}
+
+hr {
+  margin: 3em 0;
+  border: none;
+  border-top: 1px solid black;
 }
 
 p,
 ul,
 ol {
-  margin-bottom: 2em;
-  color: #1d1d1d;
+  margin-bottom : 2em;
+  color         : #1d1d1d;
   /* font-family: sans-serif; */
 }
 
 nav ul {
-  margin: 0;
-  padding: 0;
+  margin    : 0;
+  padding   : 0;
   list-style: none;
 }
 
 nav ul li {
   display: inline;
 }
+
 nav ul li::after {
   content: ', '
 }
+
 nav ul li:last-child::after {
   content: ''
+}
+
+footer {
+  font-size: 75%;
 }

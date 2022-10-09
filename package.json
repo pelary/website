@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-	 "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2"
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0"
   }
 }

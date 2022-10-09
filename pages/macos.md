@@ -1,5 +1,5 @@
 ---
-title: Mac OS
+title: mac os
 ---
 
 Previously known as OS X

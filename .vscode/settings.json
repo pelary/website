@@ -1,0 +1,5 @@
+{
+	"css.format.braceStyle": "collapse",
+	"css.format.maxPreserveNewLines": 2,
+	"css.format.spaceAroundSelectorSeparator": true
+}
