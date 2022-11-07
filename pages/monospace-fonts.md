@@ -2,6 +2,12 @@
 title: Monospace Fonts
 ---
 
+[from hn](https://news.ycombinator.com/item?id=33501684)
+
+> A while ago, while repurposing an old laptop into a distraction-free “typewriter” I researched fonts with a typewriter-like aesthetic. Here’s what I found:
+> 
+> Sun Gallant Demi, Solarize, Libertine/Libertinus Mono, Triplicate, Prestige Elite, CMU Typewriter, Latin Modern Mono, MingLiU, sony-misc, Verily Serif Mono, Century Schoolbook Mono BT, UM Typewriter, American Typewriter, Courier, Pitch, TiredOfCourier, Xanh Mono, DSE Typewriter, LTC Remington Typewriter, Bitstream Pica 10 Pitch, Italian Typewriter, Typist Slab, FF Elementa, EF Techno Script, Drafting* Mono, Bodoni Egyptian Mono.
+
 ## (Resources)
 
 - [Programming Fonts - Test Drive](https://www.programmingfonts.org/) - very nice for previewing fonts inside a simulated text editor (with a bunch of themes and code snippets from different langauges)
