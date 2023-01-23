@@ -6,15 +6,47 @@ title: Kitty (Terminal Emulator)
 
 ## Keyboard shortcuts
 
-| Action | Shortcut |
-|--|---|
-| Line up | ctrl+shift+up (also ⌥ + ⌘ + ⇞ and ⌘ + ↑ on macOS) |
-| Line down | ctrl+shift+down (also ⌥ + ⌘ + ⇟ and ⌘ + ↓ on macOS) |
-| Page up | ctrl+shift+page_up (also ⌘ + ⇞ on macOS) |
-| Page down | ctrl+shift+page_down (also ⌘ + ⇟ on macOS) |
-| Top | ctrl+shift+home (also ⌘ + ↖ on macOS) |
-| Bottom | ctrl+shift+end (also ⌘ + ↘ on macOS) |
-| Previous shell prompt | ctrl+shift+z (see Shell integration ) |
-| Next shell prompt | ctrl+shift+x (see Shell integration ) |
-| Browse scrollback in less | ctrl+shift+h |
-| Browse last cmd output | ctrl+shift+g (see Shell integration ) |
+From [Overview - kitty](https://sw.kovidgoyal.net/kitty/overview/)
+
+### Scrolling
+
+|                        |              |
+| ---------------------- | ------------ |
+| Line up                | ⌘ + ↑        |
+| Line down              | ⌘ + ↓        |
+| Page up                | ⌘ + ⇞ (PgUp) |
+| Page down              | ⌘ + ⇟ (PgDn) |
+| Top                    | ⌘ + ↖ (Home) |
+| Bottom                 | ⌘ + ↘ (End)  |
+| Previous shell prompt  | ⌃ + ⇧ + z    |
+| Next shell prompt      | ⌃ + ⇧ + x    |
+| Browse scrollback      | ⌃ + ⇧ + h    |
+| Browse last cmd output | ⌃ + ⇧ + g    |
+
+### Tabs
+
+|                   |                        |
+| ----------------- | ---------------------- |
+| New tab           | ⌘ + t                  |
+| Close tab         | ⌘ + w                  |
+| Next tab          | ⌃ + ⇥ or ⇧ + ⌘ +       |
+| Previous tab      | ⇧ + ⌃ + ⇥ or ⇧ + ⌘ + [ |
+| Next layout       | ⇧ + ⌃ + l              |
+| Move tab forward  | ⌃ + >                  |
+| Move tab backward | ⌃ + <                  |
+
+### Windows (spliting)
+
+|                       |                                              |
+| --------------------- | -------------------------------------------- |
+| New window            | ⌘ + ↩                                        |
+| New OS window         | ⌘ + n                                        |
+| Close window          | ⇧ + ⌘ + d                                    |
+| Next window           | ⇧ + ⌃ + ]                                    |
+| Previous window       | ⇧ + ⌃ + [                                    |
+| Move window forward   | ⇧ + ⌃ + f                                    |
+| Move window backward  | ⇧ + ⌃ + b                                    |
+| Move window to top    | ⇧ + ⌃ + `                                    |
+| Visually focus window | ⇧ + ⌃ + f7                                   |
+| Visually swap window  | ⇧ + ⌃ + f8                                   |
+| Focus specific window | ⌘ + 1 , ⌘ + 2  <br> (clockwise from the top-left) |

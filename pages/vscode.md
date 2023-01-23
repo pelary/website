@@ -42,9 +42,9 @@ title: Visual Studio Code (VS Code)
 What about using two different light colors schemes for day/night, just with different tones / contrasts?
 
 - Night Owl / Light Owl
-	- [Creating a VS Code Theme \| CSS-Tricks](https://css-tricks.com/creating-a-vs-code-theme/)
-	- Less clutter than most but some of the syntax colors (especially for Markdown) could be tweaked.
-		- Even full screen, the dark colros are hard to handle. 
+  - [Creating a VS Code Theme \| CSS-Tricks](https://css-tricks.com/creating-a-vs-code-theme/)
+  - Less clutter than most but some of the syntax colors (especially for Markdown) could be tweaked.
+    - Even full screen, the dark colros are hard to handle.
 - GitHub Theme (Official)
   - [primer/github-vscode-theme: GitHub's VS Code theme](https://github.com/primer/github-vscode-theme)
   - Best overall so far...
@@ -68,9 +68,9 @@ What about using two different light colors schemes for day/night, just with dif
 - Slack theme
   - [slack-theme/visual-studio-code: Slack Theme for Visual Studio Code](https://github.com/slack-theme/visual-studio-code)
   - The code editor colors are nice, the UI colors feel buggy. For example, in Ochin, disabled extensions in search results are black on dark blue.
-	- The darker colors for the sidebar and status bar make the editor area feel less cluttered
+    - The darker colors for the sidebar and status bar make the editor area feel less cluttered
 - Tokyo Night
-	- The dark version is a good start
+  - The dark version is a good start
   - The code editor colors are nice, the UI colors feel buggy. For example, in Ochin, disabled extensions in search results are black on dark blue. - The darker colors for the sidebar and status bar make the editor area feel less cluttered
 - Brackets
   - Could tone down the orange. Otherwise pretty good.
@@ -91,7 +91,7 @@ What about using two different light colors schemes for day/night, just with dif
   - Another favorite
 - Quiet Light
   - [onecrayon/theme-quietlight-vsc: Light, peaceful coding for Visual Studio Code](https://github.com/onecrayon/theme-quietlight-vsc)
-  - Nice soft theme with a gray background. 
+  - Nice soft theme with a gray background.
   - Too much color in Markdown mode, for example in links.
   - Does something bad with the activity bar
 - Horla
