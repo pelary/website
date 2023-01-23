@@ -4,7 +4,20 @@ title: Kitty (Terminal Emulator)
 
 [kitty](https://sw.kovidgoyal.net/kitty/)
 
-## Keyboard shortcuts
+## Scrolling
+
+| Action                    | Shortcut                                  |
+| ------------------------- | ----------------------------------------- |
+| Line up                   | ⌥ + ⌘ + ⇞ \ ↑  |
+| Line down                 | ⌥ + ⌘ + ⇟ \ ↓  |
+| Page up                   | ⌘ + ⇞              |
+| Page down                 | ⌘ + ⇟               |
+| Top                       | ⌘ + ↖ 	              |
+| Bottom                    | ⌘ + ↘              |
+| Previous shell prompt     | ⌃+⇧+z|
+| Next shell prompt         | ⌃+⇧+x|
+| Browse scrollback in less | ⌃+⇧+h                                     |
+| Browse last cmd output    | ⌃+⇧+g|
 
 From [Overview - kitty](https://sw.kovidgoyal.net/kitty/overview/)
 

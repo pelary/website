@@ -1,15 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Overpass+Mono:wght@300;400;600;700&family=Overpass:ital,wght@0,300;0,600;1,300;1,600&family=Oxygen+Mono&display=swap');
-
 html {
-  max-width  : 70ch;
-  padding    : 1.5em 1em;
-  margin     : auto;
-  line-height: 1.75;
-  font-size  : 1.25em;
+	max-width: 70ch;
+	padding: 1.5em 1em;
+	margin: auto;
+	line-height: 1.75;
+	font-size: 1.25em;
 }
 
 h2 {
-  font-size: 1.25em;
+	font-size: 1.25em;
 }
 
 h1,
@@ -18,52 +16,51 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 1.5em 0 1em;
+	margin: 1.5em 0 1em;
 }
 
 hr {
-  margin: 3em 0;
-  border: none;
-  border-top: 1px solid black;
+	margin: 3em 0;
+	border: none;
+	border-top: 1px solid black;
 }
 
 p,
 ul,
 ol {
-  margin-bottom : 2em;
-  color         : #1d1d1d;
-  /* font-family: sans-serif; */
+	margin-bottom: 2em;
+	color: #1d1d1d;
+	/* font-family: sans-serif; */
 }
 
 nav ul {
-  margin    : 0;
-  padding   : 0;
-  list-style: none;
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
 
 nav ul li {
-  display: inline;
+	display: inline;
 }
 
 nav ul li::after {
-  content: ', '
+	content: ', '
 }
 
 nav ul li:last-child::after {
-  content: ''
+	content: ''
 }
 
 footer {
-  font-size: 75%;
+	font-size: 75%;
 }
 
 /* ---- */
 
-
 body {
 	font-size: 16px;
 	line-height: 24px;
-	font-family: 'Cousine', sans-serif;
+	/* font-family: 'Cousine', sans-serif; */
 	padding: 1rem;
 }
 
