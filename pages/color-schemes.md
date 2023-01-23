@@ -16,7 +16,7 @@ title: Color Schemes
 
 - [IR Black](https://github.com/dexpota/kitty-themes#ir-black)
 
-- [MonaLisa](https://github.com/dexpota/kitty-themes#monalisa) - Low contrast between the foreground colors. 
+- [MonaLisa](https://github.com/dexpota/kitty-themes#monalisa) - Low contrast between the foreground colors.
 
 - [Pencil Dark](https://github.com/dexpota/kitty-themes#pencildark) - Too little contrast with background
 
@@ -28,6 +28,6 @@ title: Color Schemes
 
 - [Spiderman](https://github.com/dexpota/kitty-themes#spiderman) - Works better than I would have expected
 
-- [Square](https://github.com/dexpota/kitty-themes#square) - Low color, high quality. 
+- [Square](https://github.com/dexpota/kitty-themes#square) - Low color, high quality.
 
 - [Wryan](https://github.com/dexpota/kitty-themes#wryan) - Very low contrast
