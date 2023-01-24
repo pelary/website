@@ -165,7 +165,7 @@ motion - moves over the text to operate on, such as w, $
 
 [vimrctips - best practices - reddit/vim](https://www.notion.so/vimrctips-best-practices-reddit-vim-5722987377ab4e3c86a4c5a148ac7d0c)
 
-[Copy\, cut and paste - Vim Tips Wiki - Fandom](https://www.notion.so/Copy-cut-and-paste-Vim-Tips-Wiki-Fandom-229bb727557c44d989d3d1d10fe968f9)
+[Copy, cut and paste | Vim Tips Wiki | Fandom](https://vim.fandom.com/wiki/Copy,_cut_and_paste)
 
 [Vim Cheat Sheets](https://www.notion.so/Vim-Cheat-Sheets-e0b3515c72dd414d93c079f8942c2300)
 
