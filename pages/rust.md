@@ -1,3 +1,6 @@
+[Rust for the impatient - YouTube](https://www.youtube.com/watch?v=br3GIIQeefY&t=320s)
+[A JavaScript developer learning Rust #1 - YouTube](https://www.youtube.com/watch?v=55uFgogVms8)
+
 ## Mutable reference (&mut)
 
 ```rust

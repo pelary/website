@@ -6,6 +6,8 @@ title: Kitty (Terminal Emulator)
 
 Browse color themes: `kitty +kitten themes`
 
+Reload configuration file: `⌃ + ⌘ + ,`
+
 ## Scrolling
 
 |                        |              |
@@ -28,8 +30,8 @@ Browse color themes: `kitty +kitten themes`
 | New window            | ⌘ + ↩                                        |
 | New OS window         | ⌘ + n                                        |
 | Close window          | ⇧ + ⌘ + d                                    |
-| Next window           | ⇧ + ⌃ + ]                                    |
-| Previous window       | ⇧ + ⌃ + [                                    |
+| Next window           | ⇧ + ⌃ + \]                                    |
+| Previous window       | ⇧ + ⌃ + \[                                    |
 | Move window forward   | ⇧ + ⌃ + f                                    |
 | Move window backward  | ⇧ + ⌃ + b                                    |
 | Move window to top    | ⇧ + ⌃ + `                                    |
@@ -44,7 +46,7 @@ Browse color themes: `kitty +kitten themes`
 | New tab           | ⌘ + t                  |
 | Close tab         | ⌘ + w                  |
 | Next tab          | ⌃ + ⇥ or ⇧ + ⌘ +       |
-| Previous tab      | ⇧ + ⌃ + ⇥ or ⇧ + ⌘ + [ |
+| Previous tab      | ⇧ + ⌃ + ⇥ or ⇧ + ⌘ + \[ |
 | Next layout       | ⇧ + ⌃ + l              |
 | Move tab forward  | ⌃ + >                  |
 | Move tab backward | ⌃ + <                  |
