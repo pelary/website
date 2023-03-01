@@ -1,0 +1,1 @@
+Type `toggle vid_fps` in the console to toggle FPS display.
