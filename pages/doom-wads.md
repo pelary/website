@@ -29,4 +29,5 @@ By by Andrew Stine (Linguica) and Mike Watson (Cyb)
 - 1996
 	- [Memento Mori - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Memento_Mori)
 		- Tried
-		- For some reason always had it confused with the Inferno levels (specifically)
+		- For some reason always had it confused with the Inferno levels (specifically Crossing Acheron, which is the one good WAD I remember playing from that period)
+		- Definitely remember things like the title screen graphic, the first map with the shotgunners standing around a pentagram, the random secret sectors.
