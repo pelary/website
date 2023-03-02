@@ -26,4 +26,7 @@ By by Andrew Stine (Linguica) and Mike Watson (Cyb)
 		- A bit of a hassle to get the custom weapons working, for e.g. [Obituary - Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Obituary)
 	- [The Enigma Episode - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/The_Enigma_Episode)
 		- Tried
-		- 
+- 1996
+	- [Memento Mori - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Memento_Mori)
+		- Tried
+		- For some reason always had it confused with the Inferno levels (specifically)
