@@ -1,3 +1,43 @@
+WAD stands for "Where is All the Data". IWADs are the base data files that came with each official id game. PWADs, or Patch WADs, are add-ons that can override the IWAD, for e.g., with new levels. 
+
+- Alien Vendetta
+- Going Down
+- Ancient Aliens
+- Scythe 2
+- Hell Ground
+- Epic
+- JPCP
+- Community Chest 2 (Mucus Flow)
+- Hell Revealed
+
+- [Doomworld -- The Top 100 WADs Of All Time](https://www.doomworld.com/10years/bestwads/)
+	- 1994
+		- [Crossing Acheron](http://www.doomworld.com/idgames/index.php?id=502)
+			- Part of [Inferno (series) - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Inferno_%28series%29)
+				- First Canto: [Dante's Gate](https://doomwiki.org/wiki/Dante%27s_Gate "Dante's Gate")
+				- Second Canto: [Crossing Acheron](https://doomwiki.org/wiki/Crossing_Acheron "Crossing Acheron")
+				- Third Canto: [Virgil's Lead](https://doomwiki.org/wiki/MAP03:_Virgil%27s_Lead_(Master_Levels) "MAP03: Virgil's Lead (Master Levels)")
+				- Fourth Canto: [Minos' Judgement](https://doomwiki.org/wiki/MAP05:_Minos%27_Judgement_(Master_Levels) "MAP05: Minos' Judgement (Master Levels)")
+				- Fifth Canto: [Nessus](https://doomwiki.org/wiki/MAP07:_Nessus_(Master_Levels) "MAP07: Nessus (Master Levels)")
+				- Sixth Canto: [Geryon](https://doomwiki.org/wiki/MAP08:_Geryon_(Master_Levels) "MAP08: Geryon (Master Levels)")
+				- Seventh Canto: [Vesperas](https://doomwiki.org/wiki/MAP09:_Vesperas_(Master_Levels) "MAP09: Vesperas (Master Levels)")
+				- **Chiron** — became [And Hell Followed](https://doomwiki.org/wiki/E4M7:_And_Hell_Followed_(Doom) "E4M7: And Hell Followed (Doom)") in [Thy Flesh Consumed](https://doomwiki.org/wiki/Thy_Flesh_Consumed "Thy Flesh Consumed")
+				- **Waters of Lethe** — unreleased[[1]](https://doomwiki.org/wiki/Inferno_(series)#cite_note-1)
+		- [Aliens TC - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Aliens_TC)
+		- [Doomsday of UAC - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Doomsday_of_UAC)
+			- Tried
+		- [Galaxia - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Galaxia) (see STORY.TXT)
+			- Tried 
+			- Very annoying sound replacements
+		- [Serenity - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Serenity)
+			- Tried
+		- [Eternity (WAD) - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Eternity_%28WAD%29) (Serenity 2)
+		- [The Unholy Trinity - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/The_Unholy_Trinity) (Trinity College)
+		- [Return to Phobos - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Return_to_Phobos)
+		- [Slaughter Until Death - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Slaughter_Until_Death)
+		- [The Evil Unleashed - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/The_Evil_Unleashed)
+- [Doomworld -- 10 Years of Doom - The Top 10 Infamous WADs](https://www.doomworld.com/10years/bestwads/infamous.php)
+ 
 ## Top 100 WADs of All Time
 
 By by Andrew Stine (Linguica) and Mike Watson (Cyb)
