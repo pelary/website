@@ -71,3 +71,10 @@ By by Andrew Stine (Linguica) and Mike Watson (Cyb)
 		- Tried
 		- For some reason always had it confused with the Inferno levels (specifically Crossing Acheron, which is the one good WAD I remember playing from that period)
 		- Definitely remember things like the title screen graphic, the first map with the shotgunners standing around a pentagram, the random secret sectors.
+	- [Dystopia 3 - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Dystopia_3)
+		- Tried
+	- [All Hell is Breaking Loose - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/All_Hell_is_Breaking_Loose)
+		- Tried
+		- Some pretty nasty texture replacements
+	- [Icarus: Alien Vanguard - The Doom Wiki at DoomWiki.org](https://doomwiki.org/wiki/Icarus:_Alien_Vanguard)
+		- Tried

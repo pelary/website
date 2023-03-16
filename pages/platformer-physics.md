@@ -1,0 +1,2 @@
+[Math for Game Programmers: Building a Better Jump - YouTube](https://www.youtube.com/watch?v=hG9SzQxaCm8&t=0s)
+[Making a Jump You Can Actually Use In Godot - YouTube](https://www.youtube.com/watch?v=IOe1aGY6hXA) Define jump by height and ascend/descend times
